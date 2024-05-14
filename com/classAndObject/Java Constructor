@@ -1,0 +1,49 @@
+1] what is a constructor in java programming?
+
+Answer: Constructor is a special type of method, which do not have return type.
+		
+		- Constructor name must be same as class name.
+		
+		Note: Constructor will return current class object/instance.
+2] why we use/need a constructor in a class?
+
+Answer: to initialize an java object(state of the java object).
+
+3] how we declare/define a constructor in java programming?
+
+Answer: first we check the class name, and we use that class with access modifier
+
+for Example,
+
+
+public class Student 
+{
+
+	//fields
+	private int studentId;
+	private String studentName;
+
+	public Student() 
+	{
+		System.out.println("Hello constructor");
+	}	
+
+}
+
+from the above program, class name is 'Student'
+
+this is the syntax,
+
+public Student() 
+{
+	//statements
+}	
+
+4] how many types of constructors we have in java programming?
+
+Answer: two types of constructors we have in java programming, 
+
+		- default/zero-parameterized constructor
+		- parameterized constructor.
+		
+		

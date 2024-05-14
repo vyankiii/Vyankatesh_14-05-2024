@@ -1,0 +1,22 @@
+1] what is an object/instance in java programming?
+
+Answer: it is an instance of a class, means that an object which is created by based on class.
+        object will get memory allocation at the time of object creation or instantiation.
+        
+2] why we use objects in java programming?
+
+Answer: To represent real world objects.
+
+3] how to create or instantiate an object in java programming?
+
+Answer: In java programming, we can create or instantiate an objects in different ways.
+		one of the famous approach is by using 'new' keyword.
+
+		other ways to create an objects in java programming,
+		1. by cloning
+		2. by literal
+		3. by newInstance() method
+		4. by De-serialization..etc
+4] where we use java objects?
+
+Answer: in methods, blocks and collections.

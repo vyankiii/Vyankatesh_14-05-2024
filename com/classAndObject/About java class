@@ -1,0 +1,19 @@
+1] what is a class in java programming?
+
+Answer: A class is a template/blueprint to the java object/instance.
+
+2] why we need class in java programming?
+
+Answer: to create instances/objects in java programming.
+
+3] How do we declare/implement a class in java programming?
+
+Answer: in java programming, we have identifiers called keywords from that we use 'class'
+		keyword to declare/define a class in java programming.
+		
+4] what are the properties we have inside the java class?
+
+Answer: Generally every java class has 'fields/variables and behavior/methods', along with these
+        properties also we have special method called constructors, initializer blocks and 
+        inner classes.
+      
